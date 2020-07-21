@@ -68,12 +68,12 @@ hi Todo            guifg=#000000       guibg=#eeee44
 "                                   editor
 " ------------------------------------------------------------------------------
 
-hi ColorColumn                         guibg=#222222
+hi ColorColumn                         guibg=#111111
 "Conceal
 hi Cursor                              guibg=#ff00ff
 "CursorIM
 "CursorColumn
-hi CursorLine                          guibg=#303030
+hi CursorLine                          guibg=#161616
 "Directory
 hi DiffAdd         guifg=#00ff00       guibg=#0e0e0e
 hi GitGutterAdd    guifg=#00ff00       guibg=#0e0e0e
