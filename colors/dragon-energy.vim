@@ -88,7 +88,8 @@ hi GitGutterDelete guifg=#ff0000       guibg=#0e0e0e
 "FoldColumn
 hi SignColumn      guifg=#ffffff       guibg=#0e0e0e
 "IncSearch
-hi LineNr          guifg=#aaaa66
+hi LineNr          guifg=#707070
+hi EndOfBuffer     guifg=#303030
 hi MatchParen      guifg=#000000       guibg=#ffff00
 "ModeMsg
 "MoreMsg
