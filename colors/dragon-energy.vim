@@ -75,25 +75,25 @@ hi Cursor                              guibg=#ff00ff
 "CursorColumn
 hi CursorLine                          guibg=#303030
 "Directory
-hi DiffAdd         guifg=#00ff00       guibg=#161616
-hi GitGutterAdd    guifg=#00ff00       guibg=#161616
-hi DiffChange      guifg=#ffff00       guibg=#161616
-hi GitGutterChange guifg=#ffff00       guibg=#161616
-hi DiffDelete      guifg=#ff0000       guibg=#161616
-hi GitGutterDelete guifg=#ff0000       guibg=#161616
+hi DiffAdd         guifg=#00ff00       guibg=#0e0e0e
+hi GitGutterAdd    guifg=#00ff00       guibg=#0e0e0e
+hi DiffChange      guifg=#ffff00       guibg=#0e0e0e
+hi GitGutterChange guifg=#ffff00       guibg=#0e0e0e
+hi DiffDelete      guifg=#ff0000       guibg=#0e0e0e
+hi GitGutterDelete guifg=#ff0000       guibg=#0e0e0e
 "DiffText
 "ErrorMsg
 "VertSplit
 "Folded
 "FoldColumn
-hi SignColumn      guifg=#ffffff       guibg=#161616
+hi SignColumn      guifg=#ffffff       guibg=#0e0e0e
 "IncSearch
 hi LineNr          guifg=#aaaa66
 hi MatchParen      guifg=#000000       guibg=#ffff00
 "ModeMsg
 "MoreMsg
 "NonText
-hi Normal          guifg=#ffffff       guibg=#161616
+hi Normal          guifg=#ffffff       guibg=#0e0e0e
 "Pmenu
 "PmenuSel
 "PmenuSbar
