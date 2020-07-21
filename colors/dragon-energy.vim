@@ -24,7 +24,7 @@ hi Constant        guifg=#f07040
 hi String          guifg=#90fe40
 hi Character       guifg=#00dd55
 hi Number          guifg=#11ccff
-"Boolean
+hi Boolean         guifg=#c088ff
 hi Float           guifg=#11ccff
 
 hi Identifier      guifg=#29d8f7
@@ -39,9 +39,9 @@ hi Statement       guifg=#ff4477
 "Exception
 
 hi PreProc         guifg=#ee9933
-"Include
-"Define
-"Macro
+hi Include         guifg=#ee6600
+hi Define          guifg=#ee6600
+hi Macro           guifg=#ee6600
 "PreCondit
 
 hi Type            guifg=#33ddc8
