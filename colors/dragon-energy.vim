@@ -76,11 +76,8 @@ hi Cursor                              guibg=#ff00ff
 hi CursorLine                          guibg=#161616
 "Directory
 hi DiffAdd         guifg=#00ff00       guibg=#0e0e0e
-hi GitGutterAdd    guifg=#00ff00       guibg=#0e0e0e
 hi DiffChange      guifg=#ffff00       guibg=#0e0e0e
-hi GitGutterChange guifg=#ffff00       guibg=#0e0e0e
 hi DiffDelete      guifg=#ff0000       guibg=#0e0e0e
-hi GitGutterDelete guifg=#ff0000       guibg=#0e0e0e
 "DiffText
 "ErrorMsg
 "VertSplit
@@ -117,3 +114,15 @@ hi Normal          guifg=#ffffff       guibg=#0e0e0e
 "WarningMsg
 hi Whitespace      guifg=#555555
 "WildMenu
+
+" ------------------------------------------------------------------------------
+"                                 plugins
+" ------------------------------------------------------------------------------
+
+" Git Gutter
+hi GitGutterAdd    guifg=#00ff00       guibg=#0e0e0e
+hi GitGutterChange guifg=#ffff00       guibg=#0e0e0e
+hi GitGutterDelete guifg=#ff0000       guibg=#0e0e0e
+
+" Coc
+hi CocHintSign     guifg=#3c3c3c
