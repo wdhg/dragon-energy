@@ -126,3 +126,4 @@ hi GitGutterDelete guifg=#ff0000       guibg=#0e0e0e
 
 " Coc (:help coc-highlights)
 hi CocHintSign     guifg=#3c3c3c
+hi CocFloating     guifg=#1e1e1e
