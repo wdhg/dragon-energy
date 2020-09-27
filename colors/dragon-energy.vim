@@ -68,7 +68,7 @@ hi Todo            guifg=#000000       guibg=#eeee44
 "                                   editor
 " ------------------------------------------------------------------------------
 
-hi ColorColumn                         guibg=#111111
+hi ColorColumn                         guibg=#161616
 "Conceal
 hi Cursor                              guibg=#ff00ff
 "CursorIM
