@@ -105,9 +105,9 @@ hi Normal          guifg=#ffffff       guibg=#0e0e0e
 "SpellRare
 "StatusLine
 "StatusLineNC
-"TabLine
-"TabLineFill
-"TabLineSel
+hi TabLine         guifg=#505050       guibg=#0e0e0e       gui=none
+hi TabLineFill     guifg=#0e0e0e
+hi TabLineSel                          guibg=#0e0e0e
 "Title
 "Visual
 "VisualNOS
