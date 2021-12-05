@@ -109,6 +109,7 @@ hi TabLine         guifg=#505050       guibg=#0e0e0e       gui=none
 hi TabLineFill     guifg=#0e0e0e
 hi TabLineSel                          guibg=#0e0e0e
 "Title
+hi VertSplit       guifg=#eeee44       guibg=#eeee44
 "Visual
 "VisualNOS
 "WarningMsg
