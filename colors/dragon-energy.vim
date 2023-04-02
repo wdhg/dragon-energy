@@ -110,7 +110,7 @@ hi TabLineFill     guifg=#0e0e0e
 hi TabLineSel                          guibg=#0e0e0e
 "Title
 hi VertSplit       guifg=#eeee44       guibg=#eeee44
-"Visual
+hi Visual                              guibg=#454545
 "VisualNOS
 "WarningMsg
 hi Whitespace      guifg=#555555
