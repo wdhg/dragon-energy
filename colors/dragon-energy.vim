@@ -99,7 +99,7 @@ hi NormalFloat                         guibg=#0e0e0e
 "PmenuSbar
 "PmenuThumb
 "Question
-hi Search          guifg=#
+hi Search          guifg=#000000       guibg=#ffff00
 "SpecialKey
 "SpellBad
 "SpellCap
