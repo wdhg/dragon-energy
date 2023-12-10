@@ -70,7 +70,7 @@ hi Todo            guifg=#000000       guibg=#eeee44
 
 hi ColorColumn                         guibg=#161616
 "Conceal
-hi Cursor                              guibg=#ff00ff
+hi Cursor         guifg=#ffffff        guibg=#eeee44
 "CursorIM
 "CursorColumn
 hi CursorLine                          guibg=#161616
@@ -81,6 +81,7 @@ hi DiffDelete      guifg=#ff0000       guibg=#0e0e0e
 "DiffText
 "ErrorMsg
 "VertSplit
+hi FloatBorder     guifg=#ffffff       guibg=#0e0e0e
 "Folded
 "FoldColumn
 hi SignColumn      guifg=#ffffff       guibg=#0e0e0e
@@ -92,6 +93,7 @@ hi MatchParen      guifg=#000000       guibg=#ffff00
 "MoreMsg
 "NonText
 hi Normal          guifg=#ffffff       guibg=#0e0e0e
+hi NormalFloat                         guibg=#0e0e0e
 "Pmenu
 "PmenuSel
 "PmenuSbar
@@ -105,9 +107,9 @@ hi Normal          guifg=#ffffff       guibg=#0e0e0e
 "SpellRare
 "StatusLine
 "StatusLineNC
-hi TabLine         guifg=#505050       guibg=#0e0e0e       gui=none
+hi TabLine         guifg=#707070       guibg=#0e0e0e       gui=none
 hi TabLineFill     guifg=#0e0e0e
-hi TabLineSel                          guibg=#0e0e0e
+hi TabLineSel      guifg=#000000       guibg=#eeee44
 "Title
 hi VertSplit       guifg=#eeee44       guibg=#eeee44
 hi Visual                              guibg=#454545
