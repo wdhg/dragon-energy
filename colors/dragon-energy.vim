@@ -18,7 +18,7 @@ let g:colors_name = "dragon-energy"
 "                                    code
 " ------------------------------------------------------------------------------
 
-hi Comment         guifg=#eeee44
+hi Comment         guifg=#ffff00
 
 hi Constant        guifg=#f07040
 hi String          guifg=#90fe40
@@ -62,7 +62,7 @@ hi Special         guifg=#ffb030
 
 hi Error           guifg=#ffffff       guibg=#ff0000
 
-hi Todo            guifg=#000000       guibg=#eeee44
+hi Todo            guifg=#000000       guibg=#ffff00
 
 " ------------------------------------------------------------------------------
 "                                   editor
@@ -70,7 +70,7 @@ hi Todo            guifg=#000000       guibg=#eeee44
 
 hi ColorColumn                         guibg=#161616
 "Conceal
-hi Cursor         guifg=#ffffff        guibg=#eeee44
+" hi Cursor
 "CursorIM
 "CursorColumn
 hi CursorLine                          guibg=#161616
@@ -99,7 +99,7 @@ hi NormalFloat                         guibg=#0e0e0e
 "PmenuSbar
 "PmenuThumb
 "Question
-"Search
+hi Search          guifg=#
 "SpecialKey
 "SpellBad
 "SpellCap
@@ -109,9 +109,9 @@ hi NormalFloat                         guibg=#0e0e0e
 "StatusLineNC
 hi TabLine         guifg=#707070       guibg=#0e0e0e       gui=none
 hi TabLineFill     guifg=#0e0e0e
-hi TabLineSel      guifg=#000000       guibg=#eeee44
+hi TabLineSel      guifg=#000000       guibg=#ffff00
 "Title
-hi VertSplit       guifg=#eeee44       guibg=#eeee44
+hi VertSplit       guifg=#ffff00       guibg=#ffff00
 hi Visual                              guibg=#454545
 "VisualNOS
 "WarningMsg
