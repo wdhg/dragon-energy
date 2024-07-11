@@ -115,7 +115,7 @@ hi VertSplit       guifg=#ffff00       guibg=#ffff00
 hi Visual                              guibg=#454545
 "VisualNOS
 "WarningMsg
-hi Whitespace      guifg=#555555
+hi Whitespace      guifg=#333333
 "WildMenu
 
 " ------------------------------------------------------------------------------
