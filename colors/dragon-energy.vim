@@ -132,4 +132,4 @@ hi CocHintSign     guifg=#3c3c3c
 hi CocFloating                         guibg=#1e1e1e
 
 " Treesitter
-hi @markup.highlight guifg=#ffff00
+hi @markup.heading guifg=#ffff00
